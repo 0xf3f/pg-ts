@@ -1,3 +1,3 @@
-import hello from './foo'
+import main from './fastify'
 
-hello()
+main()
